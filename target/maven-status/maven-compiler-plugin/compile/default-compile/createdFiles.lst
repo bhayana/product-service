@@ -1,0 +1,6 @@
+com/programmingtechie/productservice/service/ExpenseService.class
+com/programmingtechie/productservice/repository/ExpenseRepository.class
+com/programmingtechie/productservice/controller/ExpenseController.class
+com/programmingtechie/productservice/model/ExpenseCategory.class
+com/programmingtechie/productservice/ProductServiceApplication.class
+com/programmingtechie/productservice/model/Expense.class
